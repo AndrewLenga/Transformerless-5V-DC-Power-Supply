@@ -1,4 +1,5 @@
 ⚡ Transformerless 5V DC Power Supply
+
 This repository contains the schematic and design for a Transformerless Linear Power Supply. This circuit uses a Capacitive Dropper instead of a bulky transformer to step down mains voltage, resulting in an extremely compact and lightweight footprint.
 
 ⚠️ DANGER: NO GALVANIC ISOLATION ⚠️
